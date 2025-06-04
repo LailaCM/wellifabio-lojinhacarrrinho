@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.heart {
+  font-size: 20px;
+  color: #aaa;
+}
+
+.produto-container {
+  position: relative;
+}
+
+.banner-text h2 {
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.banner-text h1 {
+  margin-top: 10px;
+}
+
+.form-control:disabled {
+    background-color: #eee;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.btn-primary {
+    background-color: #A88ED4;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #9371c5;
+}
